@@ -8,8 +8,7 @@
 </head>
 <body>
     
-    <h1>1st Changes to Login</h1>
-    <h1>2nd Change to Register</h1>
-    
+    <h1>Hello World</h1>
+
 </body>
-</html>
+</html>l
